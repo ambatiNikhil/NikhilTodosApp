@@ -1,0 +1,11 @@
+.heading {
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.button{
+    margin: 10px;
+    border-radius: 5px;
+}
